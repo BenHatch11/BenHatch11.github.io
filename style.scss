@@ -9,8 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-body {
-backround : http://cdn.pcwallart.com/images/3d-moving-illusion-backgrounds-wallpaper-4.jpg
+
 /* BASE RULES */
 /**************/
 
@@ -19,21 +18,22 @@ html {
 }
 
 body {
-	background: $http://cdn.pcwallart.com/images/3d-moving-illusion-backgrounds-wallpaper-4.jpg;
+	background-color: orange;
   font: 18px/1.4 $Optima;
   color: $Blue;
 }
 
 .container {
-  margin: 0 auto;
+  background:rgba (255,0,0,0.8)
+margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $Green;
+  font-family: Georgia;
+  color: lightblue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $yellow;
+  color: yellow;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: blue;
   }
 }
 
@@ -241,7 +241,11 @@ nav {
 //
 // .main
 //
-
+table, th, td {
+   border: 1px solid black;
+width:100%;
+}
+	
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
