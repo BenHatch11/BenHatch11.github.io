@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-color: orange;
+	background-image: http://eskipaper.com/images/cool-computer-backgrounds-10.jpg;
   font: 18px/1.4 $Optima;
   color: $Blue;
 }
@@ -118,17 +118,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: green;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $red;
-  background: $blue;
+  color: red;
+  background: blue;
 }
 ::selection {
-  color: $blue;
-  background: $red;
+  color: blue;
+  background: red;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid lightblue;
 
   @include mobile {
     text-align: center;
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: purple;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: lightblue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -242,13 +242,13 @@ nav {
 // .main
 //
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid orange;
 width:100%;
 }
 	
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid yellow;
 }
 
 .posts > .post:last-child {
@@ -259,9 +259,9 @@ width:100%;
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid red;
     padding: 0.1em 1em;
-    color: $gray;
+    color: blue;
     font-size: 22px;
     font-style: italic;
   }
@@ -280,7 +280,7 @@ width:100%;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: green;
 }
 
 footer {
