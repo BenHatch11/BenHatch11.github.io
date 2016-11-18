@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes or no plus why! </td>
+    <td>No because i didn't understand how to type in the code</td>
   </tr>
 </table>
 
@@ -41,28 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don't write about what you were taught, focus on what you have learned.</td>
+    <td>The strategies that are effective are listening closely to what Mr.Keen says and if he puts anything on google classroom to help you understand what's going on you should definitely use
+It to let you understand everything you're supposed to be doing, Sometimes i learn from the people around me aswell if i don't understand i will sometimes ask them for help on what to do so then i can do what we should be doing.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>The thing that limited my learning was the fact i didn't understand how to type in code, whenever i clicked on the area where i wanted to type code it just went yellow and i couldn't write anything, I need to work on my understanding of Github and coding because right now i do not understand it.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. 
-Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. 
-Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
-Don’t write about what you were taught, focus on what you have learned.</td>
+    <td>Next time I will change how closely I listen to Mr.Keen because sometimes i don’t pay as much attention as I should and then i don’t understand what's going on. And I should pay more attention so I can get on with my work quicker and i can finish it quicker.</td>
   </tr>
 </table>
 
