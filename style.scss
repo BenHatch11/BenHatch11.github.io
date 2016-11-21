@@ -14,17 +14,18 @@
 /**************/
 
 html {
-  font-size: 110%;}
+  font-size: 100%;
+}
 
 body {
-	background-color: red
-  font: 18px/1.4 $Optima;
-  color: $Blue;
+	background-color: red;
+  font: 18px/1.4 Optima;
+  color: $blue;
 }
 
 .container {
-  background:rgba (255,0,0,0.8)
-margin: 0 auto;
+  background:rgba (255,0,0,0.8);
+  margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
