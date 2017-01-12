@@ -111,6 +111,12 @@ img {
   max-width: 100%;
 }
 
+table, th, td {
+   border: 1px solid orange;
+width:100%;
+}
+	
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -241,11 +247,6 @@ nav {
 //
 // .main
 //
-table, th, td {
-   border: 1px solid orange;
-width:100%;
-}
-	
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid yellow;
@@ -265,6 +266,7 @@ width:100%;
     font-size: 22px;
     font-style: italic;
   }
+
 
   .comments {
     margin-top: 10px;
